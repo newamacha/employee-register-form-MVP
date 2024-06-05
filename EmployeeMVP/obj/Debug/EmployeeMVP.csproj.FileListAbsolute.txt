@@ -1,0 +1,16 @@
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\bin\Debug\EmployeeMVP.exe.config
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\bin\Debug\EmployeeMVP.exe
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\bin\Debug\EmployeeMVP.pdb
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\bin\Debug\Infragistics4.Win.DataVisualization.Shared.v14.2.dll
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\bin\Debug\Infragistics4.Win.DataVisualization.UltraDataChart.v14.2.dll
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\bin\Debug\Infragistics4.Win.Portable.Core.v14.2.dll
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.csproj.AssemblyReference.cache
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.Properties.Resources.resources
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.Views.EmployeeView.resources
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.csproj.GenerateResource.cache
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.exe.licenses
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.csproj.CoreCompileInputs.cache
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.csproj.CopyComplete
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.exe
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.pdb
+D:\dotnet\Amnil intenship\EmployeeMVP\EmployeeMVP\obj\Debug\EmployeeMVP.Views.MainView.resources
